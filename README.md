@@ -25,38 +25,38 @@ Translated release note information (rough translation)
 
 Update Notes:
 
-## < N3CN39WW>
+< N3CN39WW>
 - (Fix) Added patch
 
 
-## < N3CN38WW>
+< N3CN38WW>
 - (Fix) Added patch
 
 
-## < N3CN37WW>
+< N3CN37WW>
 - (Fix) Updated AMD PI to 1.1.8.0
 - (Fix) Added patch
 - (Fix) Resolved DUT boot hang after random BIOS updates
 - (Fix) Updated PD firmware
 
 
-## < N3CN35WW>
+< N3CN35WW>
 - (Fix) Based on BIOS34 with version update only
 - (Fix) Modified BT MCU wake-up timing for abnormal recovery from prolonged sleep issues
 
 
-## < N3CN32WW>
+< N3CN32WW>
 - (Fix) Configuration in DC Customer Mode
 - (Fix) Security update
 - (Fix) Diagnostic tool update
 - (Fix) Firmware update
 
 
-## < N3CN31WW>
+< N3CN31WW>
 - (Fix) Release update
 
 
-## < N3CN29WW>
+< N3CN29WW>
 - (Fix) Updated PI code to 1.1.0.1a
 - (Fix) 2024 IPU1 security BIOS update
 - (Fix) Optimized fan table interface
@@ -68,7 +68,7 @@ Update Notes:
 - (Fixed) Resolved fan_full_on issue occurring before goto window os when fanfullon feature is enabled
 - (Fixed) Updated MIPI firmware to V1.2E
 
-## < N3CN28WW>
+< N3CN28WW>
 - (Added) Implemented STAMP/STT thermal mode toggle
 - (Added) Added memory frequency toggle between 6400 and 7500 MHz
 - (New) Added charging speed optimization option, allowing users to select charging speed under high load
@@ -81,17 +81,17 @@ Update Notes:
 - (Fixed) Miscellaneous fixes
 
 
-## < N3CN26WW>
+< N3CN26WW>
 - (Fixed) Restored TF cards lost in Genesys SD card reader during MS recovery
 - (Fixed) Renamed
 
 
-## < N3CN23WW>
+< N3CN23WW>
 - (Fixed) Updated Legion Go icon in settings page
 - (Fixed) Updated MIPI firmware to V1.2D
 
 
-## < N3CN22WW>
+< N3CN22WW>
 - (New) First release
 
 Translated with DeepL
